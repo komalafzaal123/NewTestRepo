@@ -16,7 +16,7 @@ import java.util.Random;
 public class MainActivity extends AppCompatActivity  implements View.OnClickListener
 {
 
-    String Questions[]={"How to get a response from an activity in Android?.",
+    String Questions[]={"How to get a response from an activity in Android?",
             "What is the time limit of broadcast receiver in android?","What is fragment in android?",
     "Can a class be immutable in android?","How many threads are there in asyncTask in android?"};
 
